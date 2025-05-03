@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá! Eu sou a Beatriz
 
-<!--
-**bybeamachado/bybeamachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Gestão de TI na FATEC Tatuí  
+📍 Brasil  
+✉️ beatrizfatimamachado21@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/beatriz-de-f%C3%A1tima-machado-3a99a2307/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Em aprendizado
+
+- C (linguagem de programação)
+- Git e GitHub
+- Fundamentos de TI e Lógica da programação
+
+
