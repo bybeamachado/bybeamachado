@@ -1,15 +1,16 @@
 # 👋 Olá! Eu sou a Beatriz
 
-🎓 Estudante de Gestão de TI na FATEC  
+🎓 Estudante do 1° semestre de Gestão de TI na FATEC  
 📍 Brasil  
-🔗 [LinkedIn](https://www.linkedin.com/in/beatriz-de-f%C3%A1tima-machado-3a99a2307/)
+🔗 [LinkedIn](www.linkedin.com/in/bybeamachado)
 
----
 
 ### 💻 Em aprendizado
 
 - C (linguagem de programação)
+- Python
 - Git e GitHub
-- Fundamentos de TI e Lógica da programação
+- Fundamentos de TI
+- Lógica da programação
 
 
