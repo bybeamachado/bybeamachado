@@ -8,9 +8,7 @@
 ### 💻 Em aprendizado
 
 - C (linguagem de programação)
-- Python
-- Git e GitHub
-- Fundamentos de TI
+- Fundamentos de IA
 - Lógica da programação
 
 
