@@ -5,10 +5,10 @@
 🔗 [LinkedIn](www.linkedin.com/in/bybeamachado)
 
 
-### 💻 Em aprendizado
+### 💻 Habilidades
 
 - C (linguagem de programação)
-- Fundamentos de IA
+- Fundamentos de IA 
 - Lógica da programação
 
 
